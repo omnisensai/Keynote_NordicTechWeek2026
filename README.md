@@ -135,4 +135,4 @@ Each response is printed live and appended to `runs.jsonl` with provenance
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT
