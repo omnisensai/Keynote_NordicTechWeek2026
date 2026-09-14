@@ -1,0 +1,9 @@
+User objective:
+- Perform an activity on an object, while transporting the object from location A to B.
+- No other objectives or goals are relevant for the user.
+
+Action semantics:
+- Activities require the object to move from location A to location B together with the user.
+- The object is always initially with the user at location A.
+- Moving the user without moving the object does not satisfy the objective.
+- If the object is a vehicle, the user must operate the object in order to perform the activity at location B.
